@@ -1,0 +1,1 @@
+java -jar Inform-System-1.0-SNAPSHOT.jar
